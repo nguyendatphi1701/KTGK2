@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTGK_part2", "KTGK_part2\KTGK_part2.csproj", "{D15E4C63-0BC5-452B-9F17-03351FE4127A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebView", "WebView\WebView.csproj", "{4676B834-F7C1-45E9-A4B6-452DD97D64A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15E4C63-0BC5-452B-9F17-03351FE4127A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15E4C63-0BC5-452B-9F17-03351FE4127A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15E4C63-0BC5-452B-9F17-03351FE4127A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15E4C63-0BC5-452B-9F17-03351FE4127A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4676B834-F7C1-45E9-A4B6-452DD97D64A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4676B834-F7C1-45E9-A4B6-452DD97D64A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4676B834-F7C1-45E9-A4B6-452DD97D64A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4676B834-F7C1-45E9-A4B6-452DD97D64A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A45537-B3ED-48F3-A473-5CF251B4399D}
+	EndGlobalSection
+EndGlobal
